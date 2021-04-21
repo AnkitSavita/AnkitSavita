@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnkitSavita
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Machine learning 
+- 🌱 I’m currently learning exploratory data analysis and will start machine learning soon. 
 - 💞️ I’m looking to collaborate on exploratory data analytics project 
 
 - Contact me ankitsavita144@gmail.com 
